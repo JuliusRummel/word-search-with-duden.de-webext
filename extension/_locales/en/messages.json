@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+        "message": "Word search with duden.de",
+        "description": "name of the extension"
+    },
+
+    "extensionDescription": {
+        "message": "Search unknown words easily with just one click.",
+        "description": "description of the extension"
+    },
+
+    "contextMenuTitle": {
+        "message": "Search '%s' on duden.de",
+        "description": "search string in the context menu"
+    }
+}

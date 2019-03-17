@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+        "message": "Wörtersuche mit duden.de",
+        "description": "name of the extension"
+    },
+    
+    "extensionDescription": {
+        "message": "Schlagen Sie unbekannte Wörter mit nur einem Klick nach.",
+        "description": "description of the extension"
+    },
+
+    "contextMenuTitle": {
+        "message": "'%s' auf duden.de nachschlagen",
+        "description": "search string in the context menu"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dict.cc-webext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julius Rummel <32172513+DerWaldie@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "web-ext build --overwrite-dest -s extension/ -a artifacts/",
+    "clean": "rm -r artifacts/",
+    "lint": "web-ext lint -s extension/"
+  },
+  "devDependencies": {
+    "web-ext": "^3.0.0"
+  }
+}
