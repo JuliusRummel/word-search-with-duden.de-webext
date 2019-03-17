@@ -1,1 +1,1 @@
-# Word search with dict.cc webext
+# Word search with duden.de webext
